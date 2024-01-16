@@ -1,0 +1,80 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background-image: url('./img/background_image.jpg');
+    background-repeat: no-repeat;
+}
+
+#dis-cerceve{
+   
+ border: 1px solid black;
+   margin: 20px;
+   padding: 15px 0;
+   color: white;
+   background-color: rgba(0, 0, 0, 0.332);
+
+}
+
+h1{
+    text-align: center;
+    font-size: 2rem;
+    font-weight: 900;
+    font-family: sans-serif;
+}
+
+h3{
+    text-align: center;
+}
+ .flix{
+    color: red;
+ }
+
+ #form{
+    margin: auto;
+    margin-bottom: 145px;
+    width: 400px;
+    padding:10px 30px; 
+    background-color: rgba(0, 0, 0, 0.878);
+ }
+
+ .input-box{
+    width: 90%;
+    height: 50%;
+    padding: 10px;
+ }
+#content{
+    width: 300px;
+    height: 29px;
+}
+
+#fb{
+     width: 280px;
+    height: 80px;
+    color: black;
+    padding-left: 10px;
+}
+
+#subm{
+    
+    text-align: center;
+    
+}
+
+#submit{
+    padding: 5px 30px;
+    border-radius: 30px;
+    color: white;
+    background-color: red;
+}
+
+#submit:hover{
+    cursor: pointer;
+    background-color: white;
+    color:red;
+}
+
+
